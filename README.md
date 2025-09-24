@@ -5,7 +5,27 @@
 
 ---
 
-## 🌍 Why Amazon?  
+## 📑 Table of Contents
+
+- <a href="#why-amazon">🌍 Why Amazon?</a>  
+- <a href="#project-overview">🧩 Project Overview</a>  
+- <a href="#project-context">📊 Project Context</a>  
+- <a href="#key-considerations">🧠 Key Considerations</a>    
+- <a href="#project-objectives">🎯 Project Objectives</a>  
+- <a href="#target-audience">👥 Target Audience</a>  
+- <a href="#business-problem">🛑 Business Problems Addressed</a>  
+- <a href="#key-features">💡 Key Features & Visual Insights</a>  
+- <a href="#filters-interactivity">🧮 Filters & Interactivity</a>  
+- <a href="#tools-technologies">🧰 Tools & Technologies Used</a>  
+- <a href="#key-business-takeaways">📈 Key Business Takeaways</a>
+- <a href="#strategic-recommendations">🚀 Strategic Recommendations</a>
+- <a href="#future-scope">🔮 Future Scope</a>  
+- <a href="#contact">📬 Connect with Me</a> 
+- <a href="#project-snapshot">🖼️ Project Snapshot</a>
+
+---
+
+## <span id="why-amazon">🌍 Why Amazon?</span>   
 
 **Amazon** is the world’s largest e-commerce marketplace, managing **millions of transactions across global regions**.  
 This project simulates **Amazon’s enterprise-level performance monitoring** using **real sales, profit, loss, and customer behavior insights**.  
@@ -16,14 +36,14 @@ Designed for **strategic leaders, business analysts, and operations managers**, 
 
 ---
 
-## 🧩 Project Overview  
+## <span id="project-overview">🧩 Project Overview</span>    
 
 This **Power BI-based Business Intelligence solution** delivers a **comprehensive performance snapshot** of Amazon’s global business.  
 It integrates **KPI monitoring, sales insights, profit & loss analysis, and customer intelligence** into a **unified dashboard**, helping business users transform raw data into **strategic decision-making insights**.  
 
 ---
 
-## 📊 Project Context  
+## <span id="project-context">📊 Project Context</span>    
 
 Global e-commerce companies like Amazon face **high data complexity** — from **regional sales trends** to **customer profitability** and **product-level performance**.  
 This dashboard addresses the need for:  
@@ -35,7 +55,7 @@ This dashboard addresses the need for:
 
 ---
 
-## 🧠 Key Considerations  
+## <span id="key-considerations">🧠 Key Considerations</span>
 
 - High transaction volumes across global regions.  
 - Fragmented profitability insights without integrated BI.  
@@ -44,7 +64,7 @@ This dashboard addresses the need for:
 
 ---
 
-## 🎯 Project Objectives  
+## <span id="project-objectives">🎯 Project Objectives</span>    
 
 ### 1. Visualize Global Sales Trends  
 - Regional and year-wise analysis for sales contribution.  
@@ -65,7 +85,7 @@ This dashboard addresses the need for:
 
 ---
 
-## 👥 Target Audience  
+## <span id="target-audience">👥 Target Audience</span>    
 
 - 🎯 **Strategic Leadership (CXOs, Directors)** → To track global growth & profit drivers.  
 - 📊 **Business Analysts** → To perform deep-dive analysis across regions and products.  
@@ -74,7 +94,7 @@ This dashboard addresses the need for:
 
 ---
 
-## 🛑 Business Problems Addressed  
+## <span id="business-problem">🛑 Business Problems Addressed</span>    
 
 ### ❌ Problem 1: Lack of Profitability Clarity  
 - Some products contribute losses, but without visibility, they remain unnoticed.  
@@ -92,7 +112,7 @@ This dashboard addresses the need for:
 
 ---
 
-## 💡 Key Features & Visual Insights  
+## <span id="key-features">💡 Key Features & Visual Insights</span>   
 
 ### 📊 Visuals Included  
 
@@ -116,7 +136,7 @@ This dashboard addresses the need for:
 
 ---
 
-## 🧮 Filters & Interactivity  
+## <span id="filters-interactivity">🧮 Filters & Interactivity</span>   
 
 - **Year Filter** (2012–2015) to view sales over time.  
 - **Region Filter** to compare market-level sales.  
@@ -125,7 +145,7 @@ This dashboard addresses the need for:
 
 ---
 
-## 🧰 Tools & Technologies Used  
+## <span id="tools-technologies">🧰 Tools & Technologies Used</span>   
 
 | Tool / Technology   | Purpose                                  |
 |---------------------|------------------------------------------|
@@ -136,7 +156,7 @@ This dashboard addresses the need for:
 
 ---
 
-## 📈 Key Business Takeaways  
+## <span id="key-business-takeaways">📈 Key Business Takeaways</span>   
 
 - **Europe & USCA** are the **top-performing markets**.  
 - **Consumer Segment** contributes nearly **half of total sales**.  
@@ -145,7 +165,7 @@ This dashboard addresses the need for:
 
 ---
 
-## 🚀 Strategic Recommendations  
+## <span id="strategic-recommendations">🚀 Strategic Recommendations</span>   
 
 - 📍 Focus on **High-Performing Regions** → Western Europe & USCA.  
 - 📦 Eliminate **Loss-Making Products** → Replace or optimize Cubify Cube & Ibico.  
@@ -155,7 +175,7 @@ This dashboard addresses the need for:
 
 ---
 
-## 🔮 Future Scope  
+## <span id="future-scope">🔮 Future Scope</span>   
 
 - 🌐 Real-Time Data Integration with Amazon’s cloud systems.  
 - 📱 Mobile-Friendly BI Dashboard for executives.  
@@ -165,7 +185,18 @@ This dashboard addresses the need for:
 
 ---
 
-## 🖼️ Project Snapshot  
+## <span id="contact">📬 Connect with Me</span> 
+
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
+## <span id="project-snapshot">🖼️ Project Snapshot</span>   
 
 > _Final BI Dashboard Snapshot:_  
 
